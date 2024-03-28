@@ -3,3 +3,5 @@ This repository contains the code for our paper:
 
 Our preprint is online here:
 > https://www.biorxiv.org/content/10.1101/2023.05.30.542983v1
+
+Fine-mapping analysis as part of the project was done using https://github.com/urmovosa/EstBBfinemap pipeline.

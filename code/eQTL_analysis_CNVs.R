@@ -1,4 +1,6 @@
 #!/usr/bin/Rscript
+# Script by Maarja Jõeloo
+# CNV-based eQTL analysis
 
 run.eqtl <- function(cnv.file = "/path/to/EXPR_QTL/EGCUT_CN_freqfilter_unique.RDS",
                      expr.file = "/path/to/rnaseq_logcpm.RDS",
